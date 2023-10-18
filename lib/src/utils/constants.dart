@@ -1,0 +1,1 @@
+const appTitle = 'Mazen Pharmacy Admin';
